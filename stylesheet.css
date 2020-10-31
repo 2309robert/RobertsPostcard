@@ -1,20 +1,18 @@
 @font-face {
-    font-family: 'secret_typewriterregular';
-    src: url('veteran_typewriter-webfont.woff2') format('woff2'),
-         url('veteran_typewriter-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'journalregular';
-    src: url('journal-webfont.woff2') format('woff2'),
-         url('journal-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-	
-	}
+     font-family: 'handwriting';
+     src: url('journal-webfont.woff2') format('woff2'),
+     url('journal-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+ }
+ /*hgh*/
+ @font-face {
+     font-family: 'typewriter';
+     src: url('veteran_typewriter-webfont.woff2') format('woff2'),
+     url('veteran_typewriter-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+ }
 	
 
 body {
